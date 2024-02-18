@@ -1,6 +1,6 @@
 # Checklist ✅
-- [ ] I've read [CONTRIBUTIONS.md](https://github.com/scroll-tech/contribute-to-scroll/blob/main/CONTRIBUTIONS.md) document
-- [ ] I've filled the `contributions.json` file
+- [✅] I've read [CONTRIBUTIONS.md](https://github.com/scroll-tech/contribute-to-scroll/blob/main/CONTRIBUTIONS.md) document
+- [✅] I've filled the `contributions.json` file
 
 # Issues this PR Resolves 🚀
 - Link to the Issue:
@@ -8,13 +8,10 @@
 
 # Contributor social handles (Github / Twitter / Telegram) 🎙️
 1. Example Contributor
-   - Github: [scroll-tech](https://github.com/scroll-tech)
-   - Twitter: [Scroll_ZKP](https://twitter.com/Scroll_ZKP)
+   - Github: [scroll-tech](https://github.com/Emir236070)
+   - Twitter: [Scroll_ZKP](https://twitter.com/Kadir21201371)
 2. Example Anonymous Contributor
-   - Github: anon
-
-# Contribution Description 📝
-_Describe your work in more details here_
+   - Github: Emir236070
 
 # Additional Resources 🔗
-_Add any additional links you feel like will help with the review here (Contract Address, Deployer Address, Links to the code etc.)_
+I would love for a project like Scroll to have an L1 layer. In my opinion, since L2 projects are dependent on ETH, the L1 project will make the scroll more independent. We can understand the value of L1 due to the fact that the Scroll's own token gains more functionality and its fuel is low.
