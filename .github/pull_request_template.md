@@ -1,6 +1,6 @@
 # Checklist ✅
 - [✅] I've read [CONTRIBUTIONS.md](https://github.com/scroll-tech/contribute-to-scroll/blob/main/CONTRIBUTIONS.md) document
-- [✅] I've filled the `contributions.json` file
+- [X] I've filled the `contributions.json` file
 
 # Issues this PR Resolves 🚀
 - Link to the Issue:
@@ -14,4 +14,4 @@
    - Github: Emir236070
 
 # Additional Resources 🔗
-I would love for a project like Scroll to have an L1 layer. In my opinion, since L2 projects are dependent on ETH, the L1 project will make the scroll more independent. We can understand the value of L1 due to the fact that the Scroll's own token gains more functionality and its fuel is low.
+I would love for a project like Scroll to have an L1 layer. Since L2 projects are dependent on ETH, I think the L1 project will make swiping more independent. I would like Scroll's own token to gain more functionality.
